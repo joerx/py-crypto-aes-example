@@ -1,4 +1,4 @@
-# Python AWS Examples
+# Python AES Examples
 
 Based on https://cryptobook.nakov.com/symmetric-key-ciphers/aes-encrypt-decrypt-examples
 
